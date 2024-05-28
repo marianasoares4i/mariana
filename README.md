@@ -5,6 +5,7 @@ Sou formada em Estatística e Ciências Atuariais pela UFRJ e atualmente estou c
 ## Experiência
 
 - **Programação em R:** Tenho vasta experiência com a linguagem R, incluindo análise de dados, visualização e modelagem estatística.
+- **GitHub e GitHubActions**
 
 ## Formação Acadêmica
 
